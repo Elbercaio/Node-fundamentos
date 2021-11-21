@@ -1,0 +1,23 @@
+{
+  "name": "ts-crud",
+  "version": "1.0.0",
+  "description": "Simple crud in ts",
+  "main": "dist/crud.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "crud"
+  ],
+  "author": "Elber Lopes",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^16.11.9",
+    "query-string": "^7.0.1",
+    "typescript": "^4.5.2"
+  },
+  "devDependencies": {
+    "prettier": "2.4.1"
+  }
+}
