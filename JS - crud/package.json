@@ -1,0 +1,15 @@
+{
+  "name": "js-crude",
+  "version": "1.0.0",
+  "description": "Simple js crud",
+  "main": "crud.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elber Lopes",
+  "license": "ISC",
+  "live": "nodemon crud.js",
+  "dependencies": {
+    "query-string": "^7.0.1"
+  }
+}
